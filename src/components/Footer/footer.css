@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .left-div {
+    /* CSS styles for left div */
+  }
+  
+  .right-div {
+    /* CSS styles for right div */
+  }
+  
+  .ruler {
+    width: 1px; /* Width of ruler */
+    height: 100%; /* Height of ruler */
+    background-color: black; /* Color of ruler */
+  }
